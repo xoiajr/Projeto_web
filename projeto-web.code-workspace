@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"compile-hero.pug-output-directory": "public",
+		"compile-hero.pug-input-directory": "pug\\pages",
+		"compile-hero.disable-compile-files-on-did-save-code": false,
+		"compile-hero.watch": "**/pages/**"
+	  
+	},
+}
